@@ -1,6 +1,6 @@
 ## Hi there, I'm Dorsa Piraneh 👋
 
-### ✨ About Me
+## ✨ About Me
 I am a frontend developer.  
 I build clean and interactive web applications using HTML, CSS, JavaScript, and Bootstrap.  
 I focus on delivering practical projects and continuously improving my skills.  
@@ -8,7 +8,7 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 
 
 
-### 💻 Skills & Tools
+## 💻 Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,12 +17,12 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### *Skills in progress*
+### *Skills in progress*
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=E0F7FA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=E0F7FA)
 
 
-### 📊 Skill Progress
+## 📊 Skill Progress
 
 | Skill          | Progress |
 |----------------|----------|
@@ -35,7 +35,7 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 | React (Learning)       | █ 10% |
 | Tailwind CSS (Learning)| ██ 20% |
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 
 
