@@ -1,8 +1,5 @@
 # Hi there, I'm Dorsa Piraneh 👋
 
-👩‍💻 **Junior Frontend Developer | HTML, CSS, JavaScript**
-
-
 ## ✨ About Me
 I am a frontend developer.  
 I build clean and interactive web applications using HTML, CSS, JavaScript, and Bootstrap.  
