@@ -1,5 +1,6 @@
 # Hi there, I'm Dorsa Piraneh 👋
 
+
 ## ✨ About Me
 I am a frontend developer.  
 I build clean and interactive web applications using HTML, CSS, JavaScript, and Bootstrap.  
@@ -14,7 +15,6 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -31,8 +31,13 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 | CSS            | █████████ 90% |
 | JavaScript     | ████████ 80% |
 | Bootstrap      | ███████ 70% |
+| Git                    | █████ 50% |
+| GitHub                 | ███████ 70% |
 | React (Learning)       | █ 10% |
 | Tailwind CSS (Learning)| ██ 20% |
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+
+
+
