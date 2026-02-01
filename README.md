@@ -1,5 +1,4 @@
-<h2 align="center">Hi there, I'm Dorsa Piraneh 👋</h2>
-
+## Hi there, I'm Dorsa Piraneh 👋
 
 ### ✨ About Me
 I am a frontend developer.  
