@@ -7,6 +7,7 @@ I focus on delivering practical projects and continuously improving my skills.
 Next steps in my learning path: React & Tailwind CSS. 🚀
 
 
+</br>
 
 ## 💻 Skills & Tools
 
@@ -21,6 +22,7 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=E0F7FA)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=E0F7FA)
 
+</br>
 
 ## 📊 Skill Progress
 
@@ -34,6 +36,8 @@ Next steps in my learning path: React & Tailwind CSS. 🚀
 | GitHub                 | ███████ 70% |
 | React (Learning)       | █ 10% |
 | Tailwind CSS (Learning)| ██ 20% |
+
+</br>
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
